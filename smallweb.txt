@@ -698,6 +698,7 @@ https://alediaferia.com/feed/
 https://aleksac.me/feed.xml
 https://alekzandriia.com/feed/
 https://alemann.dev/rss.xml
+https://aleph.press/rss.xml
 https://aleph.se/andart2/feed/
 https://alesandroortiz.com/feed.xml
 https://alesruzicka.eu/blog/eng/index.xml
@@ -5243,6 +5244,7 @@ https://fredrikj.net/blog/rss.xml
 https://fredtrotter.com/feed/
 https://free-variable.org/feed/
 https://freedommathdance.blogspot.com/feeds/posts/default
+https://freeflow.pika.page/rss.xml
 https://freek.dev/feed
 https://freelancemag.blogspot.com/feeds/posts/default
 https://freepartypeople.wordpress.com/feed/
@@ -12195,6 +12197,7 @@ https://vk7.eu/photo/feed
 https://vk7tw.wordpress.com/feed/
 https://vkc.sh/feed/
 https://vlaaad.github.io/feed.xml
+https://vladcampos.com/rss.xml
 https://vladfeinberg.com/feed.xml
 https://vladfilippov.com/feed/
 https://vladiliescu.net/index.xml
